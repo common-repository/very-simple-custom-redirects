@@ -1,0 +1,84 @@
+== Changelog VS Custom Redirects ==
+
+= Version 3.0 =
+* Minor changes in code
+
+= Version 2.9 =
+* Minor changes in code
+
+= Version 2.8 =
+* Minor changes in code
+
+= Version 2.7 =
+* Bumped the "requires PHP" version to 7.0
+* Bumped the "requires at least" version to 5.0
+* Minor changes in code
+
+= Version 2.6 =
+* Minor changes in code
+
+= Version 2.5 =
+* Minor changes in code
+
+= Version 2.4 =
+* Improved notification at settings page
+
+= Version 2.3 =
+* Notification at settings page when redirect is active
+
+= Version 2.2 =
+* Removed function load_plugin_textdomain() because redundant
+* Plugin uses the WP language packs for its translation
+* Kept translation folder for reference
+
+= Version 2.1 =
+* Plugin has a new name
+* But plugin itself and ownership did not change
+
+= Version 2.0 =
+* Fix: in_array() function in PHP 8
+
+= Version 1.9 =
+* Improved redirect functions
+* Textual changes
+
+= Version 1.8 =
+* Plugin is relisted in the repository
+* Major update: complete rewrite of plugin
+* Fix: wrong redirect for non-administrators
+* Updated register_setting() function
+* Because of this change plugin now requires at least WP 4.7
+* New: redirect default register page
+* Better validating, sanitizing and escaping
+* Removed notifications about support for other plugins
+
+= Version 1.7 =
+* Readme file: removed donate link
+* Updated theme author info
+
+= Version 1.6 =
+* Last update: this plugin will be removed from repository
+* Main reason is the small number of active installs
+* You can keep using plugin, but without updates and without support from author
+
+= Version 1.5 =
+* Best practice: removed closing PHP tag from most files
+* Minor changes in code
+
+= Version 1.4 =
+* Changed default logout redirect from homepage to default login page
+* Enter value for redirects to homepage: home
+* Minor textual changes
+
+= Version 1.3 =
+* Fix: Profile Builder Pro notification
+
+= Version 1.2 =
+* Changed notification about WooCommerce and Profile Builder Pro
+* Minor changes in code
+
+= Version 1.1 =
+* Minor changes in code
+
+= Version 1.0 =
+* First stable release
